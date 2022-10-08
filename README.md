@@ -1,2 +1,1 @@
-# react-chat-applciation
-# react-chat-applciation
+# react-chat-ui
